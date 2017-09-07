@@ -1,5 +1,7 @@
 # gulp-aigis-demo
 
+gulp-aigisの挙動を理解するための最小構成リポジトリ
+
 ## command
 
 ### build
@@ -34,6 +36,10 @@ gulp clean
 ### distribution index
 
 - /styleguide/index.html
+
+### distribution sample
+
+- [sample (github.io)](https://sekiyaeiji.github.io/gulp-aigis-demo/styleguide/category/component/index.html)
 
 ### components
 
