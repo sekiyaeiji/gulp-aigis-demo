@@ -1,0 +1,27 @@
+
+.l-button {
+  padding: 5px 10px;
+  cursor: pointer;
+  outline: none;
+  appearance: none;
+  border: 1px solid #999;
+  border-radius: 3px;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: middle;
+  color: #666;
+  background: #fff;
+}
+
+
+.l-lead {
+  margin: 0 0 24px;
+  padding: 5px 10px;
+  border: 1px solid #999;
+  border-radius: 3px;
+  font-size: 13px;
+  color: #333;
+  background: #fff;
+}
+
+
