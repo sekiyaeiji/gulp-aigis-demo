@@ -39,7 +39,7 @@ gulp clean
 
 ### distribution sample
 
-- [sample (github.io)](https://sekiyaeiji.github.io/gulp-aigis-demo/styleguide/category/component/index.html)
+- [demo (github.io)](https://sekiyaeiji.github.io/gulp-aigis-demo/styleguide/category/component/index.html)
 
 ### components
 
