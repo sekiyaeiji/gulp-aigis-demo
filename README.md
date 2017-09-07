@@ -27,7 +27,7 @@ gulp clean
 
 ## styleguide
 
-### engin
+### engine
 
 - [gulp-aigis](https://www.npmjs.com/package/gulp-aigis)
 
