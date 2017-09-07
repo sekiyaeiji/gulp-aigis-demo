@@ -19,7 +19,7 @@
 let gulp = require('gulp');
 let runSequence = require('run-sequence');
 let del = require('del');
-let aigis = require('gulp-aigis');
+let styleguide = require('gulp-aigis');
 
 
 /*
@@ -27,7 +27,7 @@ let aigis = require('gulp-aigis');
  */
 // default
 gulp.task('default', function () {
-  runSequence('aigis');
+  runSequence('styleguide');
 });
 
 
@@ -52,10 +52,10 @@ gulp.task('clean', function () {
 
 
 /*
- * styledocco
+ * styleguide
  */
-gulp.task('aigis', function () {
-  console.log('---------- aigis ----------');
+gulp.task('styleguide', function () {
+  console.log('---------- styleguide ----------');
   return gulp.src(path.src + 'aigis/config.yml')
-    .pipe(aigis());
+    .pipe(styleguide());
 });
