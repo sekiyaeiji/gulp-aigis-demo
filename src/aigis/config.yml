@@ -1,0 +1,8 @@
+name: This Project Styleguide
+
+source_type: .md
+source: ./
+dest: ../../styleguide
+dependencies: ./css
+template_engine: ejs
+template_dir: ./template
